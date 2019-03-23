@@ -97,7 +97,7 @@ public class NeuralNet implements NeuralNetInterface {
         double err;
         epochs = 0;
 
-        // String file = new String("D:/Laurabelle/Documents/VSCODE/robProj/Weights");
+        // String file = new String("robProj/Weights");
         File weights = new File("robProj/Weights");
 
         // load(file);
